@@ -1,0 +1,42 @@
+{
+  "admin_user": "morisi",
+  "admin_pass": "morisi2026",
+  "contacto": {
+    "email_taller": "pedidos@morisi.com",
+    "whatsapp_taller": "5491112345678",
+    "nombre_taller": "Morisi Chapas Perforadas"
+  },
+  "cobro": {
+    "banco": "",
+    "titular": "",
+    "cbu": "",
+    "alias": "",
+    "cuit": "",
+    "mercado_pago_link": "",
+    "acepta_transferencia": true,
+    "acepta_mercado_pago": true,
+    "acepta_efectivo_retiro": true,
+    "nota_pago": "Una vez acreditado el pago, coordinamos producción y entrega."
+  },
+  "precios": {
+    "material_m2": 8500,
+    "corte_por_minuto": 120,
+    "velocidad_mm_s": 20,
+    "pintura_m2": 3200,
+    "pintura_caras": 1,
+    "plegado_ml": 1500,
+    "plegado_fijo": 500,
+    "embalaje_m2": 400,
+    "embalaje_fijo": 300,
+    "setup": 1500,
+    "margen_pct": 30,
+    "despacho_base": 2500,
+    "despacho_por_km": 180,
+    "despacho_km_min": 5,
+    "zonas": {
+      "CABA": 3500,
+      "GBA": 5500,
+      "Interior": 12000
+    }
+  }
+}

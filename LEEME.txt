@@ -1,0 +1,10 @@
+================================================
+  Chapas Perforadas Morisi
+================================================
+WINDOWS: doble clic en INICIAR.bat
+
+CALADO — agarres automáticos:
+  • Mínimo 5 mm · Máximo 8 mm
+  • Se calculan solos (no hay que configurarlos)
+  • Marco perimetral + puentes para que nada quede suelto
+================================================
